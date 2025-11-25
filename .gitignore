@@ -44,3 +44,5 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+/data/LivingPlanetIndex_2024_PublicData
+freshwater-instudy.txt
